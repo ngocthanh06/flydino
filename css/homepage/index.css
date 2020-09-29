@@ -1,0 +1,19 @@
+.text-color {
+    color: #f2761f;
+}
+
+.navbar-index-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.navbar-index-brand:focus, .navbar-index-brand:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
